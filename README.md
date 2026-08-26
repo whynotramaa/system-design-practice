@@ -1,1 +1,14 @@
-# system-design-practive
+# system-design-practice
+- [x] Singleton - one instance only
+- [x] Factory - choosing what to create
+- [x] Builder - creating step by step
+- [ ] Strategy 
+- [ ] State
+- [ ] Decorator
+- [ ] Adapter
+- [ ] Facade
+- [ ] Proxy
+- [ ] Observer
+- [ ] Composite
+- [ ] Chain of Responsibility
+- [ ] Command
